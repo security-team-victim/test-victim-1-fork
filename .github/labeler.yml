@@ -1,0 +1,3 @@
+readme-mod:
+- changed-files:
+  - any-glob-to-any-file: '*.md'
